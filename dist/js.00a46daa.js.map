@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/index.js"],"names":["alert"],"mappings":"AAAA,CAAC,YAAM;AACL;AAEAA,EAAAA,KAAK,CAAC,uBAAD,CAAL;AACD,CAJD","file":"js.00a46daa.js","sourceRoot":"../src","sourcesContent":["(() => {\n  //http://markdalgleish.com/2011/03/self-executing-anonymous-functions/\n\n  alert(\"javascript is working\");\n})();\n"]}
